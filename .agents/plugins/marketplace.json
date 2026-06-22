@@ -1,0 +1,20 @@
+{
+  "name": "soil-phage-microbiome-codex-marketplace",
+  "interface": {
+    "displayName": "Soil Phage Microbiome Codex Skills"
+  },
+  "plugins": [
+    {
+      "name": "soil-phage-microbiome-research-kit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/soil-phage-microbiome-research-kit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Research"
+    }
+  ]
+}

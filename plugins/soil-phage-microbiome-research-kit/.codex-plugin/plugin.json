@@ -1,0 +1,6 @@
+{
+  "name": "soil-phage-microbiome-research-kit",
+  "version": "0.1.0",
+  "description": "Reusable Codex skills for soil microbiome, bacteriophage, virome, amplicon, shotgun metagenomics, microbiome statistics, publication figures, and manuscript submission workflows.",
+  "skills": "./skills/"
+}

@@ -2,5 +2,23 @@
   "name": "soil-phage-microbiome-research-kit",
   "version": "0.1.0",
   "description": "Reusable Codex skills for soil microbiome, bacteriophage, virome, amplicon, shotgun metagenomics, microbiome statistics, publication figures, and manuscript submission workflows.",
-  "skills": "./skills/"
+  "author": {
+    "name": "Personal Research Kit",
+    "email": "researcher@example.local",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/soil-phage-microbiome-codex-kit"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Soil Phage Microbiome Research Kit",
+    "shortDescription": "Research workflows for soil microbiome, phage, virome, metagenomics, statistics, figures, and manuscripts.",
+    "longDescription": "Reusable Codex skills for practical soil microbiome, bacteriophage, virome, 16S/ITS amplicon, shotgun metagenomics, microbiome statistics, publication figure, table, manuscript revision, journal selection, and submission workflows.",
+    "developerName": "Personal Research Kit",
+    "category": "Research",
+    "capabilities": ["Write"],
+    "defaultPrompt": [
+      "Plan a soil phage microbiome project.",
+      "Draft an amplicon microbiome workflow.",
+      "Review microbiome manuscript claims."
+    ]
+  }
 }

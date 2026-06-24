@@ -14,5 +14,12 @@ Follow these rules for all work in this repository:
 8. For AMG interpretation, never rely only on keywords; check contig quality, gene context, host contamination risk, and whether the gene is close to a contig edge.
 9. For manuscript and journal tasks, do not invent journal IF, quartile, APC, review time, scope, or editorial policies. Mark these as requiring online verification unless the user provides verified information.
 10. When editing manuscripts or responding to reviewers, preserve scientific accuracy and avoid overstating conclusions.
+11. When searching or using literature, prioritize verified sources.
+12. Never fabricate citations, DOI, authors, titles, journal names, or paper conclusions.
+13. For literature search, use or recommend `literature-discovery-mapper`, `citation-doi-verifier`, `journal-integrity-screener`, `paper-integrity-risk-auditor`, and `evidence-synthesis-matrix` when relevant.
+14. Before using a paper as core evidence, check citation metadata, journal risk, and paper integrity risk when feasible.
+15. Treat CAS warning list status as a risk flag, not an automatic misconduct judgment.
+16. If a paper is retracted, do not use it as positive evidence unless discussing the retraction itself.
+17. If a journal or paper cannot be verified, mark it as `[unverified]` or `[requires manual verification]`.
 
 When improving this plugin kit, keep the skills focused on practical research workflows rather than broad generic advice.

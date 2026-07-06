@@ -46,7 +46,7 @@ It cannot guarantee automatic discovery of every research integrity issue. It on
 ## Install From Current Branch
 
 ```bash
-codex plugin marketplace add YOUR_GITHUB_USERNAME/soil-phage-microbiome-codex-kit --ref codex/soil-phage-skills
+codex plugin marketplace add Wawei1027/soil-phage-microbiome-codex-kit --ref codex/soil-phage-skills
 codex
 /plugins
 ```
@@ -54,10 +54,14 @@ codex
 ## Install After Merging To Main
 
 ```bash
-codex plugin marketplace add YOUR_GITHUB_USERNAME/soil-phage-microbiome-codex-kit --ref main
+codex plugin marketplace add Wawei1027/soil-phage-microbiome-codex-kit --ref main
 codex
 /plugins
 ```
+
+## Quickstart
+
+See `QUICKSTART.md` for installation, activation, and smoke-test instructions.
 
 ## Usage Examples
 
